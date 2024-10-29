@@ -1,7 +1,3 @@
-Sure! Here’s a detailed README file based on the provided CSS and JavaScript code snippets.
-
----
-
 # Project Title
 
 **Responsive Navigation and UI Enhancements**
@@ -118,7 +114,3 @@ For questions, suggestions, or feedback, please reach out to:
 - **Name:** Victor Idam
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **GitHub:** [your-github-username](https://github.com/your-github-username)
-
----
-
-Feel free to customize the sections such as **Project Title**, **Installation**, **Contact Information**, and any other relevant details to suit your project's specifics.
